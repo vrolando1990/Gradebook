@@ -1,6 +1,6 @@
 /*
 Gradebook using composition and an array based list for students with object arrays inside
-Gradebook holds students and each student has assignments, tests and a final.
+Gradebook holds students and each student has assignments, tests and a final.
 */
 
 // Inlcude gaurd
