@@ -8,7 +8,5 @@ Currenly this program runs on any C++ IDE such as Visual Studio or CodeLite.
 
 ## Program Screenshots (Can do much more, but these are a few examples)
 
-*Screenshots:*
-
-![alt text](https://github.com/vrolando1990/Gradebook/blob/master/misc/Capture.JPG, "one")
+https://github.com/vrolando1990/Gradebook/tree/master/misc
 
