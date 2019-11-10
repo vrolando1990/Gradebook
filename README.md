@@ -10,5 +10,5 @@ Currenly this program runs on any C++ IDE such as Visual Studio or CodeLite.
 
 *Screenshots:*
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png, "one")
+![alt text](https://github.com/vrolando1990/Gradebook/blob/master/misc/Capture.JPG, "one")
 
